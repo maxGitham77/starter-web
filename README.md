@@ -2,11 +2,9 @@
 
 This a is a simple website for testing my Git and Github knowledge
 
-This repository is for showing how Git and GitHub work
-
 ## Introduction
 
-Sample website with plenty of files for demos
+This is an example on how to use different parts of the Git repository and various command
 
 ## Deployment
 
