@@ -10,4 +10,6 @@ This is an example on how to use different parts of the Git repository and vario
 
 ## Purpose
 
+As stated above, the purpose is to show how to use Git and Gihub
+
 ## How To Contribute
